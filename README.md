@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Code+Craftsman+%F0%9F%94%A5;Love+building+scalable+apps+%F0%9F%9A%80;Full-stack+with+focus+on+backend+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%93%9A"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Learner.+Builder.+Problem+Solver+Craftsman+%F0%9F%94%A5;Love+building+scalable+apps+%F0%9F%9A%80;Full-stack+with+focus+on+backend+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%93%9A"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;"
   />
