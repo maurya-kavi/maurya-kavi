@@ -14,8 +14,6 @@
 
 ### 🧑‍💻 About Me
 
-🔭 Currently building **codeX** — A LeetCode-inspired coding platform with AI assistant
-
 🌱 Learning advanced **backend systems**, **AI integrations**, and **system design**
 
 💬 Ask me about:  
